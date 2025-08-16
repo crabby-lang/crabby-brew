@@ -2,8 +2,7 @@
 
 Crabby support for MacOS 🍎
 
-> [!CAUTION]
-
+> [!WARNING]
 > Still in development and changes will occur anytime soon, contributions is open for users who wants crabby to be ported or be available in MacOS
 
 ## SETUP
